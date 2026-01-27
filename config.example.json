@@ -1,0 +1,11 @@
+{
+    "site_id": "YOUR-SITE-ID-HERE",
+    "output_folder": "..",
+    "source_folder": "source",
+    "name_columns": [
+        "First Name",
+        "Last Name"
+    ],
+    "date_column": "Submission Time",
+    "url_columns": []
+}
